@@ -5,6 +5,8 @@ Based on "Fing" at https://www.fing.com/
 
 Based on "Fingbox Review - How to manage and monitor your home network devices and users" at https://www.youtube.com/watch?v=lkngAqevQ9s
 
+Based on "Netwerk beveiligen met de Fingbox" at https://www.ct.nl/reviews/netwerk-beveiligen-fingbox-hulpmiddel/
+
 ## 100 - Introduction
 
 Network scanner & device blocking app for Internet security.
