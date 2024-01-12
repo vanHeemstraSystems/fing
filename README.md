@@ -18,3 +18,5 @@ Fing helps you get the most out of your home network: see all the devices connec
 **WARNING**: **Fingbox** has been discontinued. However, it looks like they are moving all development to the “**Fing Desktop**” software. It runs on Windows or Mac, and if you have a dedicated PC, it works just like the Fingbox. 
 
 Consider "**[Firewalla](https://firewalla.com/)**" als an alternative (hardware) for the same functionality as Fingbox once offered.
+
+Better still, and lessexpensive, look into "pfSense" at https://github.com/vanHeemstraSystems/home-assistant-with-pfsense/
